@@ -5,7 +5,7 @@
 <p>Ensure that you have Git, Node.js, and npm (Node Package Manager) or may be Yarn installed on your system. (some npm packagers will not be working so should install yarn as well)</p>
 <h2>Clone the Repository:</h2>
 <ul>
-<li>Go to the GitHub link of BrowseMe: [GitHub Repository Link]</li>
+<li>Go to the GitHub link of BrowseMe: https://github.com/nisansala-madhuwanthi/MERN_STACK_PROJECT </li>
 <li>Click on the "Code" button and copy the HTTPS link provided.</li>
 <li>Create a new folder on your local machine where you want to download the project files.</li>
 <li>Rename the new folder as desired.</li>
